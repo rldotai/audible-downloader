@@ -1,3 +1,7 @@
+# Local directories and files
+output/
+.authcode
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

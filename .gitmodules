@@ -1,0 +1,6 @@
+[submodule "audible-activator"]
+	path = audible-activator
+	url = https://github.com/inAudible-NG/audible-activator.git
+[submodule "AAXtoMP3"]
+	path = AAXtoMP3
+	url = https://github.com/KrumpetPirate/AAXtoMP3
