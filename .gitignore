@@ -1,6 +1,7 @@
 # Local directories and files
 output/
 .authcode
+activation.blob
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
