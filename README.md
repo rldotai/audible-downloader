@@ -36,7 +36,7 @@ cp modified-audible-activator.py audible-activator/modified-audible-activator.py
 Install prerequisites:
 
 ```bash
-sudo apt-get install ffmpeg libav-tools x264 x265 bc mediainfo
+sudo apt-get install ffmpeg x264 x265 bc mediainfo
 ```
 
 # Usage
